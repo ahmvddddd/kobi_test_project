@@ -5,7 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+
 Bellow is a GIF of the app
+
+![Gif_file](https://github.com/ahmvddddd/kobi_test_project/blob/main/assets/user_balance.gif?raw=true)
 
 Prerequisites
 Before you begin, ensure you have the following installed:
